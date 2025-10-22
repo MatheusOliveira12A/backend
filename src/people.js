@@ -6,13 +6,13 @@ const people = [
     },
 
     {
-        name: "Brenno Sena"
+        name: "Brenno Sena",
         age: 17,
         email: "brennosena@outlook.com"
     },
 
     {
-        name: "Raphael Brandão"
+        name: "Raphael Brandão",
         age: 12,
         email:"raphaelbrandaodagigi@yahoo.com"
     }
